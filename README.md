@@ -4,7 +4,7 @@
 
 This repository contains the open-source assets (licensed under CC BY 4.0) for the Checkpoint Fork concept, designed to improve user retention, reduce computational waste, and give power users critical control over long-running AI sessions.
 
-![Workflow Diagram](workflow.png)
+![Workflow Diagram](workflow.svg)
 
 ---
 
@@ -30,7 +30,7 @@ This simple change preserves all critical artifacts, improves user retention, an
 This repository provides all the assets needed for implementation:
 
 *   **[The Icon (SVG)](icon.svg)**: The clean, scalable vector icon for the feature.
-*   **[The Workflow Diagram (PNG)](workflow.svg)**: The diagram illustrating the concept.
+*   **[The Workflow Diagram (SVG)](workflow.svg)**: The diagram illustrating the concept.
 *   **[The Production-Ready Prompt Logic](PROMPT.md)**: The detailed system prompt engineered for high-fidelity artifact preservation.
 
 ### License
