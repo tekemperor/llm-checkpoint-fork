@@ -4,7 +4,7 @@
 
 This repository contains the open-source assets (licensed under CC BY 4.0) for the Checkpoint Fork concept, designed to improve user retention, reduce computational waste, and give power users critical control over long-running AI sessions.
 
-![Workflow Diagram](workflow.svg)
+![Workflow Diagram](workflow.png)
 
 ---
 
