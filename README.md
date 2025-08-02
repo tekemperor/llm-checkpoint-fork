@@ -19,11 +19,12 @@ There's a systemic failure in the UX of major LLMs that is actively wasting mone
 
 The Checkpoint Fork is an elegant escape hatch that gives users control and offers businesses a proactive cost-management tool.
 
-Here's how it works:
-1.  When a session nears a context threshold, the **Checkpoint Fork** button appears.
-2.  Clicking it creates an automated, high-fidelity summary to start a new, clean session, with an **option to guide the focus**.
+Here is the simple, user-initiated workflow:
+1.  **Initiate the Fork:** When a session becomes long or unfocused, the user clicks the **Checkpoint Fork** button to prevent context degradation.
+2.  **Guide the Summary (Optional):** An option appears, allowing the user to provide a specific focus for the new session's narrative.
+3.  **Start the New Session:** A new, focused session is created, beginning with a high-fidelity summary that preserves all critical code, data, and other artifacts from the previous conversation.
 
-This simple change preserves all critical artifacts, improves user retention, and provides a direct, positive impact on a company's cloud budget.
+This simple process improves user retention and provides a direct, positive impact on a company's cloud budget.
 
 ### Project Assets
 
